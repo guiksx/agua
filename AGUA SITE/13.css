@@ -1,0 +1,192 @@
+    body {background:  #e3faff}
+*{
+ margin:0;
+}
+h1{
+font-family:Serif ;
+color:#60BA7C;
+font-size:60px;
+background:#125D92;
+padding:50px
+}
+p.title{
+position:absolute;
+top:40px;
+left:340px
+}
+p.temas{
+background: #88d2db;
+padding:0px
+position:absolute;
+top:140px;
+left:350px;
+margin-top:100px;
+margin-left:80px;
+margin-right:80px;
+border-style:solid;
+border-color: #88d2db;
+border-width:2px;
+border-radius:20px 20px 20px 20px;
+}
+a:link{
+text-decoration:none;
+font-family:Cursive;
+color:white;
+font-size:20px;
+}
+  a:visited.pg1{
+text-decoration:nome;
+font-family:Cursive;
+color:purple;
+font-size:20px}
+a:visited.cr1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.imp1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+ a:visited.d1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.pd1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.uc1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.acs1{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.ch{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.e{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px} 
+a:visited.ca{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.pa{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px}
+a:visited.10{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px}
+a:visited.e{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px} 
+a:visited.uca{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+a:visited.pdap{
+text-decoration:nome;
+font-family:Cursive;
+color:#60BA7C;
+font-size:20px
+}
+ 
+ 
+h2{
+background:#336fa8 ;
+padding:50px;
+}
+p.sub{
+font-family:Serif;
+color:#60BA7C;
+font-size:50px;
+}
+p.p1{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+left: 3%;
+top: 58%;
+}
+p.p2{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+left: 3%;
+top: 62%
+}
+p.p3{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+left: 3%;
+top: 66%;
+}
+p.p4{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+left: 3%;
+top: 70%
+}
+p.p5{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+left: 3%;
+top: 74%;
+}
+p.p6{
+font-family: cursive;
+color: black;
+font-size: 30px;
+position: absolute;
+text-align: justify;
+left: 3%;
+top: 80%;
+margin: 0%;
+height: 0px;
+width: 1000px;
+}
+img.img1{
+position: absolute;
+right: 8%;
+height: 450px;
+width: 450px;
+border: 5px solid #125D92;
+top: 58%;
+}/* CSS Document */
